@@ -1,4 +1,4 @@
-<p align="right"> <img src=https://komarev.com/ghpvc/?username=BenjaminHCCarr alt="Tenoch"/> </p>
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=Tenoch-pro alt="Tenoch"/> </p>
 
 - 👋 Hi, I’m Ttenochtchi Bush
 - 👀 I’m interested in FullStack Development using Node and React, Vue and Angular.
