@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Ttenochtchi Bush
 - 👀 Skilled in Full Stack Development with Node.js and React, as well as Python and Django.
 - 💞️ I'm eager to collaborate with teams of any size.
-- 
+
 <!---
 Tenoch-pro/Tenoch-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
