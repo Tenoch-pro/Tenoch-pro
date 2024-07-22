@@ -1,7 +1,7 @@
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=Tenoch-pro alt="Tenoch"/> </p>
 
 - 👋 Hi, I’m Ttenochtchi Bush
-- 👀 Skilled in Full Stack Development with Node.js and React, as well as Python and Django.
+- 👀 Skilled in Full Stack Development with Node.js, React, and Next.js, as well as Python and Django.
 - 💞️ I'm eager to collaborate with teams of any size.
 
 <!---
